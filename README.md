@@ -1,4 +1,4 @@
-# VVS Swap SDK
+# AKITA Swap SDK
 
 Forked from the [Uniswap SDK](https://github.com/Uniswap/uniswap-v2-sdk/commit/a88048e9c4198a5bdaea00883ca00c8c8e582605).
 
@@ -8,11 +8,7 @@ You can refer to the Uniswap SDK documentation [uniswap.org](https://uniswap.org
 
 To run the tests, follow these steps. You must have at least node v10 and [yarn](https://yarnpkg.com/) installed.
 
-Move into the vvs-swap-sdk working directory
-
-```sh
-cd packages/vvs-swap-sdk/
-```
+Move into the swap-sdk working directory
 
 Install dependencies
 
